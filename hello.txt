@@ -13,4 +13,4 @@ Hello Feng! Hello Git!
 Hello Feng! Hello Git!
 Hello Feng! Hello Git!
 Hello Feng! Hello Git! master test
-Hello Feng! Hello Git!
+Hello Feng! Hello Git! hot-fix test
